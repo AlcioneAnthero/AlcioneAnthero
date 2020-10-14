@@ -13,7 +13,7 @@ My name is Alcione Anthero, I'm from Brazil - São Paulo. I graduated in 2019, L
 
 #### Minhas redes sociais: :round_pushpin:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alcione%20Anthero-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcione-anthero-a68a44189/)](https://www.linkedin.com/in/alcione-anthero-a68a44189/) 
+
 [![Hotmail Badge](https://img.shields.io/badge/-alcione.silva304@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alcione.silva304@hotmail.com)](mailto:diego.schell.f@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@alcioneanthero-6633cc?style=flat-square&labelColor=6633cc&logo=Instagram&logoColor=white&link=https://instagram.com/alcioneanthero)](https://instagram.com/alcioneanthero) 
 [![Twitter Badge](https://img.shields.io/badge/-@antheroalcione-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/antheroalcione)](https://twitter.com/antheroalcione) 
