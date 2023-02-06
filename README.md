@@ -1,8 +1,8 @@
 # Hello! :wave: 📍
 
-Me chamo Alcione Anthero, tenho 21 anos e sou de São Paulo - Brasil. :house_with_garden: Me formei em 2019, Técnico em Logística, pela Universidade Nove de Julho. :mortar_board:
+Me chamo Alcione Anthero, tenho 23 anos e sou de São Paulo - Brasil. :house_with_garden: Me formei em 2019, Técnico em Logística, pela Universidade Nove de Julho. :mortar_board:
 
-E sou formada também, como Desenvolvedora Web Java Jr. pela instituição Generation Brasil, com conhecimento básico em Java, JavaScript, Spring Framework, Angular + TypeScript, Metodologia SCRUM, Lógica de Programação, Banco de Dados (MySQL), Programação Orientada a Objetos, HTML + CSS + Bootstrap e outros assuntos que envolve o desenvolvimento Back-End e Front-End.  
+Estou cursando publicidade e propaganda em EAD pela universidade Cruzeiro do Sul e sou formada também, como Desenvolvedora Web Java Jr. pela instituição Generation Brasil, com conhecimento básico em Java, JavaScript, Spring Framework, Angular + TypeScript, Metodologia SCRUM, Lógica de Programação, Banco de Dados (MySQL), Programação Orientada a Objetos, HTML + CSS + Bootstrap e outros assuntos que envolve o desenvolvimento Back-End e Front-End.  
 📍 Porém com domínio em Front-End. 📍
 
 #### Quem é a Alcione? :memo:
